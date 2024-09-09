@@ -1,5 +1,4 @@
 ﻿#include <stdio.h>
-using namespace homework1;
 int main()
 {
     puts("   _____||____");
